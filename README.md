@@ -29,6 +29,8 @@ sudo pacman -S python-requests
 ## ⚙ Getting your discord token
 The program will ask you to enter your discord token, if you don't know
 how to get your token, [here's a random tutorial that i found on youtube](https://www.youtube.com/watch?v=b1SY4zTNnAE)
-Also if get any errors etc. [create an issue](https://github.com/ngn13/clyde-blocker/issues)
+
+
+And if get any errors etc. [create an issue](https://github.com/ngn13/clyde-blocker/issues)
 
 <br>
